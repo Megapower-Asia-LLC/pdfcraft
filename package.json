@@ -46,7 +46,7 @@
     "reactflow": "^11.11.4",
     "tailwind-merge": "^2.5.4",
     "tesseract.js": "^6.0.1",
-    "zgapdfsigner": "^2.7.5",
+    "zgapdfsigner": "^2.8.0",
     "zustand": "^5.0.0"
   },
   "devDependencies": {
